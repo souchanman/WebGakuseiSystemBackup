@@ -1,0 +1,2 @@
+# WebGakuseiSystemBackup
+web学生システムの受信メッセージのバックアップのためのスクリプト
